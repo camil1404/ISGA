@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_2" data-name="Laag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 285.02 68.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e30613;
+        font-size: 53px;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+        font-size: 38.47px;
+      }
+
+      .cls-3 {
+        font-family: CocogoosePro-Letterpress, 'Cocogoose Pro';
+      }
+    </style>
+  </defs>
+  <g id="Laag_1-2" data-name="Laag 1">
+    <text class="cls-3" transform="translate(0 46.36)"><tspan class="cls-1" x="0" y="0">AM</tspan><tspan class="cls-2" x="91.48" y="0">STUDENT</tspan></text>
+  </g>
+</svg>
